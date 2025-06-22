@@ -1,7 +1,7 @@
 
 Nombre: Alessandro
 
-Nivel: Basico/intermedio
+Nivel: Basico
 
 Hola, me llamo Piero Alessandro Aguilar Chavez, utilizo mi segundo nombre en casi todo, ya que, es un nombre
 que me gusta mucho. En el tiempo que este en el minibootcamp espero mejorar mis habilidades como desarrollados,
